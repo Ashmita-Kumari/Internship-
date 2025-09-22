@@ -1,2 +1,0 @@
-# Internship-
-Front-end development
